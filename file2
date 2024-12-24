@@ -1,0 +1,6 @@
+java fullstack
+    <script>  
+    var date=new Date();  
+    document.writeln("Today's day: "+date.getDate());  
+    </script>  
+
